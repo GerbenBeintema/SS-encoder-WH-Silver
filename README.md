@@ -1,8 +1,10 @@
 # State-space encoding applied on Wiener-Hammerstein and Silverbox benchmarks
 
-The code from paper accepted in L4DC 2021: https://arxiv.org/abs/2012.07697
+The code from paper publish paper in L4DC 2021: https://arxiv.org/abs/2012.07697
 
-The notebooks has been updated to be compatible with the newest version of deepSI toolbox.  (original commit: 6b531a1)
+The notebooks has been updated to be compatible with the newest version of [deepSI toolbox](https://github.com/GerbenBeintema/deepSI) (0.3.0).  
+
+(original notebook available at: `6b531a1` with 0.1 version of deepSI)
 
 # Instructions
 
